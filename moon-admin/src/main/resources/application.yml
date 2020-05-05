@@ -8,7 +8,7 @@ moon:
   copyrightYear: 2020
   # 实例演示开关
   demoEnabled: true
-  # 文件路径 示例（ Windows配置D:/moon/uploadPath，Linux配置 /home/moon/uploadPath）C:\ry\uploads   D:\RuoYi-plus\uploads
+  # 文件路径 示例（ Windows配置D:/moon/uploadPath，Linux配置 /home/moon/uploadPath）C:\ry\uploads   D:\moon-plus\uploads
   profile: D:\moon\uploads
   # 获取ip地址开关
   addressEnabled: true
@@ -31,7 +31,7 @@ server:
 # 日志配置
 logging:
   level:
-    com.ruoyi: debug
+    com.moon: debug
     org.springframework: warn
 
 # 用户配置
